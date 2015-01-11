@@ -3,7 +3,7 @@ openexr.js
 
 **WIP** - A complete port of OpenEXR 2.2 to Javascript for a new generation of high-dynamic-range browser-based approval workflows.
 
-- [Open an issue](https://github.com/vfx-engineering/vfx-facilities-list/issues/new) on GitHub if you have any questions concerning the project.
+- [Open an issue](https://github.com/vfx-engineering/openexr.js/issues/new) on GitHub if you have any questions concerning the project.
 
 
 ## Project updates
